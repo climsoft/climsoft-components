@@ -1,6 +1,6 @@
-# opencdms-components
+# climsoft-components
 
-⭐ Reusable W3C web components, used by opencdms-app and other applications.
+Reusable W3C web components for future use with climsoft-app (and other applications).
 
 ## Using Components
 
